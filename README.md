@@ -1,6 +1,6 @@
 # Hi, I'm Peter.
 
-## Currently looking for Backend Developer job in Katowice and the surrounding area, preferably in JavaScript/TypeScript, Python or C#.
+### Currently looking for Backend Developer job in Katowice and the surrounding area, preferably in JavaScript/TypeScript, Python or C#.
 
 <br />
 
