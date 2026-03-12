@@ -1,4 +1,4 @@
-## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,express,nestjs,git,postgres,mysql,mongodb,redis,kafka,rabbitmq,docker,vscode)](https://skillicons.dev)
 
 <!--
 **peterdotw/peterdotw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
